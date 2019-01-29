@@ -1,4 +1,4 @@
-##Learn Cryptography
+<h1>Learn Cryptography</h1>
 
 First and most basic method is Caesar Cipher
 
