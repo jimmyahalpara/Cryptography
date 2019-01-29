@@ -1,4 +1,4 @@
-# Cryptography
+**Learn Cryptography**
 
 First and most basic method is Caesar Cipher
 
@@ -21,12 +21,14 @@ cannot be understood at a simple glance. 
 
 ![undefined](media/db6a2b627512c6d91219da4c0a82c1dc.png)
 
+undefined
+
 For example, here's the Caesar Cipher encryption of a full message, using a left
 shift of 3. 
 
 Plaintext:  
-THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG  
-  
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+
 Ciphertext:  
 QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
 
@@ -55,3 +57,14 @@ force attack.
 **Brute Attack** here means we will try all the 25 combinations so we won’t need
 any shift. Caesar Cipher is very easy to crack. We will discuss Frequency
 analysis later.
+
+Code for encryption is
+[HERE](https://github.com/jimmyahalpara/Cryptography/blob/master/Ceaser%20Cipher/Encrypter.py)
+
+Code for decryption is
+[HERE](https://github.com/jimmyahalpara/Cryptography/blob/master/Ceaser%20Cipher/Decrypter.py)
+
+Code for brute attack is
+[HERE](https://github.com/jimmyahalpara/Cryptography/blob/master/Ceaser%20Cipher/Brute%20attack.py)
+
+Here in our case we will have 26 keys one including space.
