@@ -67,4 +67,4 @@ Code for decryption is
 Code for brute attack is
 [HERE](https://github.com/jimmyahalpara/Cryptography/blob/master/Ceaser%20Cipher/Brute%20attack.py)
 
-Here in our case we will have 26 keys one including space.
+Here in our case we will have 26 keys one extra space.
